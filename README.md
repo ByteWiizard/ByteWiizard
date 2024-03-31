@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByteWiizard
 - 👀 I’m interested in ... Anything that is Tech.
-- 🌱 I’m currently learning ... Web Development
+- 🌱 I’m currently learning ... Web Development,BlockChain Development
 - 💞️ I’m looking to collaborate on ... Web Projects.
 - 📫 ByteWiizard@gmail.com
 - 🌐 https://65bf620fb909903f34794d39--euphonious-liger-2c87f7.netlify.app/
